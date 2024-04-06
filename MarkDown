@@ -1,0 +1,37 @@
+1. Add Income
+2. Add Expense
+3. View Transactions
+4. View Balance
+5. Exit
+Select an option: 1
+Enter income amount: R100
+1. Add Income
+2. Add Expense
+3. View Transactions
+4. View Balance
+5. Exit
+Select an option: 2
+Enter expense amount: R50
+1. Add Income
+2. Add Expense
+3. View Transactions
+4. View Balance
+5. Exit
+Select an option: 3
+Transaction History:
+- Income: R100
+- Expense: -R50
+1. Add Income
+2. Add Expense
+3. View Transactions
+4. View Balance
+5. Exit
+Select an option: 4
+Current Balance: R50
+1. Add Income
+2. Add Expense
+3. View Transactions
+4. View Balance
+5. Exit
+Select an option: 5
+Exiting...
